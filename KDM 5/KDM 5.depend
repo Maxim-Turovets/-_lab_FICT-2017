@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490957693 source:/home/max/Documents/KDM 5/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
