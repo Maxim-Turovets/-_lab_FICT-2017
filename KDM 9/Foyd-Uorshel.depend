@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492764674 source:/home/max/Documents/Foyd-Uorshel/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
